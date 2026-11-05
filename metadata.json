@@ -1,0 +1,6 @@
+{
+  "name": "Creepy Crawlers",
+  "description": "Retro 2D top-down neighborhood crawler game with caterpillar physics, obstacles, treats, dash boosts, and real-time multiplayer room lobby.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
